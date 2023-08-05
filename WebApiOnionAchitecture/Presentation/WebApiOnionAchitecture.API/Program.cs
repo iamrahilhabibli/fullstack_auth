@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using WebApiOnionAchitecture.API.Business;
 using WebApiOnionAchitecture.API.Hubs;
 using WebApiOnionArchitecture.Application.Abstraction.Services;
 using WebApiOnionArchitecture.Domain.Entities.Identity;
@@ -31,6 +32,7 @@ builder.Services.AddSignalR();
 builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<AppDbContextInitialiser>();
 builder.Services.AddScoped<IJwtService, JwtService>();
+builder.Services.AddScoped<MyBusiness>();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddCors(options => options.AddDefaultPolicy(policy => policy.AllowAnyMethod().AllowAnyHeader().AllowCredentials().SetIsOriginAllowed(origin => true)));

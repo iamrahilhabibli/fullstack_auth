@@ -2,7 +2,7 @@
 
 namespace WebApiOnionAchitecture.API.Hubs
 {
-    public class MyHub :Hub
+    public class MyHub : Hub
     {
         public static List<string> clients = new List<string>();
         public async Task SendMessageAsync(string message)

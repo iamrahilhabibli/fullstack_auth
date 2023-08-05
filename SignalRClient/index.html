@@ -10,7 +10,7 @@
       $(document).ready(() => {
         const connection = new signalR.HubConnectionBuilder()
           .withUrl("https://localhost:7075/myhub")
-          .withAutomaticReconnect([1000, 1000, 2000])
+          .withAutomaticReconnect()
           .build();
 
         async function start() {
@@ -73,7 +73,7 @@
           animation();
         });
 
-        connection.on("userLeaved", (connectionId) => {
+        connection.on("userLeft", (connectionId) => {
           state.html(`${connectionId}, disconnected`);
           state.css("background-color", "red");
           state.css("color", "white");
