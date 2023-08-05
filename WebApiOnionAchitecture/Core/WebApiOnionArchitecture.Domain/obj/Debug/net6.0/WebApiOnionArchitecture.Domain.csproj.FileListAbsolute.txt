@@ -1,0 +1,12 @@
+C:\Users\Rhabi\OneDrive\Documents\Fullstack_practice\WebApiOnionArchitechture\WebApiOnionAchitecture\Core\WebApiOnionArchitecture.Domain\bin\Debug\net6.0\WebApiOnionArchitecture.Domain.deps.json
+C:\Users\Rhabi\OneDrive\Documents\Fullstack_practice\WebApiOnionArchitechture\WebApiOnionAchitecture\Core\WebApiOnionArchitecture.Domain\bin\Debug\net6.0\WebApiOnionArchitecture.Domain.dll
+C:\Users\Rhabi\OneDrive\Documents\Fullstack_practice\WebApiOnionArchitechture\WebApiOnionAchitecture\Core\WebApiOnionArchitecture.Domain\bin\Debug\net6.0\WebApiOnionArchitecture.Domain.pdb
+C:\Users\Rhabi\OneDrive\Documents\Fullstack_practice\WebApiOnionArchitechture\WebApiOnionAchitecture\Core\WebApiOnionArchitecture.Domain\obj\Debug\net6.0\WebApiOnionArchitecture.Domain.csproj.AssemblyReference.cache
+C:\Users\Rhabi\OneDrive\Documents\Fullstack_practice\WebApiOnionArchitechture\WebApiOnionAchitecture\Core\WebApiOnionArchitecture.Domain\obj\Debug\net6.0\WebApiOnionArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhabi\OneDrive\Documents\Fullstack_practice\WebApiOnionArchitechture\WebApiOnionAchitecture\Core\WebApiOnionArchitecture.Domain\obj\Debug\net6.0\WebApiOnionArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\Rhabi\OneDrive\Documents\Fullstack_practice\WebApiOnionArchitechture\WebApiOnionAchitecture\Core\WebApiOnionArchitecture.Domain\obj\Debug\net6.0\WebApiOnionArchitecture.Domain.AssemblyInfo.cs
+C:\Users\Rhabi\OneDrive\Documents\Fullstack_practice\WebApiOnionArchitechture\WebApiOnionAchitecture\Core\WebApiOnionArchitecture.Domain\obj\Debug\net6.0\WebApiOnionArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rhabi\OneDrive\Documents\Fullstack_practice\WebApiOnionArchitechture\WebApiOnionAchitecture\Core\WebApiOnionArchitecture.Domain\obj\Debug\net6.0\WebApiOnionArchitecture.Domain.dll
+C:\Users\Rhabi\OneDrive\Documents\Fullstack_practice\WebApiOnionArchitechture\WebApiOnionAchitecture\Core\WebApiOnionArchitecture.Domain\obj\Debug\net6.0\refint\WebApiOnionArchitecture.Domain.dll
+C:\Users\Rhabi\OneDrive\Documents\Fullstack_practice\WebApiOnionArchitechture\WebApiOnionAchitecture\Core\WebApiOnionArchitecture.Domain\obj\Debug\net6.0\WebApiOnionArchitecture.Domain.pdb
+C:\Users\Rhabi\OneDrive\Documents\Fullstack_practice\WebApiOnionArchitechture\WebApiOnionAchitecture\Core\WebApiOnionArchitecture.Domain\obj\Debug\net6.0\ref\WebApiOnionArchitecture.Domain.dll

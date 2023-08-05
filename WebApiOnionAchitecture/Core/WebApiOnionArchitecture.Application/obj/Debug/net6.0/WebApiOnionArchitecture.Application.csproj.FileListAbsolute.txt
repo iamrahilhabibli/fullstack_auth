@@ -1,0 +1,15 @@
+C:\Users\Rhabi\OneDrive\Documents\Fullstack_practice\WebApiOnionArchitechture\WebApiOnionAchitecture\Core\WebApiOnionArchitecture.Application\bin\Debug\net6.0\WebApiOnionArchitecture.Application.deps.json
+C:\Users\Rhabi\OneDrive\Documents\Fullstack_practice\WebApiOnionArchitechture\WebApiOnionAchitecture\Core\WebApiOnionArchitecture.Application\bin\Debug\net6.0\WebApiOnionArchitecture.Application.dll
+C:\Users\Rhabi\OneDrive\Documents\Fullstack_practice\WebApiOnionArchitechture\WebApiOnionAchitecture\Core\WebApiOnionArchitecture.Application\bin\Debug\net6.0\WebApiOnionArchitecture.Application.pdb
+C:\Users\Rhabi\OneDrive\Documents\Fullstack_practice\WebApiOnionArchitechture\WebApiOnionAchitecture\Core\WebApiOnionArchitecture.Application\bin\Debug\net6.0\WebApiOnionArchitecture.Domain.dll
+C:\Users\Rhabi\OneDrive\Documents\Fullstack_practice\WebApiOnionArchitechture\WebApiOnionAchitecture\Core\WebApiOnionArchitecture.Application\bin\Debug\net6.0\WebApiOnionArchitecture.Domain.pdb
+C:\Users\Rhabi\OneDrive\Documents\Fullstack_practice\WebApiOnionArchitechture\WebApiOnionAchitecture\Core\WebApiOnionArchitecture.Application\obj\Debug\net6.0\WebApiOnionArchitecture.Application.csproj.AssemblyReference.cache
+C:\Users\Rhabi\OneDrive\Documents\Fullstack_practice\WebApiOnionArchitechture\WebApiOnionAchitecture\Core\WebApiOnionArchitecture.Application\obj\Debug\net6.0\WebApiOnionArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhabi\OneDrive\Documents\Fullstack_practice\WebApiOnionArchitechture\WebApiOnionAchitecture\Core\WebApiOnionArchitecture.Application\obj\Debug\net6.0\WebApiOnionArchitecture.Application.AssemblyInfoInputs.cache
+C:\Users\Rhabi\OneDrive\Documents\Fullstack_practice\WebApiOnionArchitechture\WebApiOnionAchitecture\Core\WebApiOnionArchitecture.Application\obj\Debug\net6.0\WebApiOnionArchitecture.Application.AssemblyInfo.cs
+C:\Users\Rhabi\OneDrive\Documents\Fullstack_practice\WebApiOnionArchitechture\WebApiOnionAchitecture\Core\WebApiOnionArchitecture.Application\obj\Debug\net6.0\WebApiOnionArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Users\Rhabi\OneDrive\Documents\Fullstack_practice\WebApiOnionArchitechture\WebApiOnionAchitecture\Core\WebApiOnionArchitecture.Application\obj\Debug\net6.0\WebApiOnionArchitecture.Application.csproj.CopyComplete
+C:\Users\Rhabi\OneDrive\Documents\Fullstack_practice\WebApiOnionArchitechture\WebApiOnionAchitecture\Core\WebApiOnionArchitecture.Application\obj\Debug\net6.0\WebApiOnionArchitecture.Application.dll
+C:\Users\Rhabi\OneDrive\Documents\Fullstack_practice\WebApiOnionArchitechture\WebApiOnionAchitecture\Core\WebApiOnionArchitecture.Application\obj\Debug\net6.0\refint\WebApiOnionArchitecture.Application.dll
+C:\Users\Rhabi\OneDrive\Documents\Fullstack_practice\WebApiOnionArchitechture\WebApiOnionAchitecture\Core\WebApiOnionArchitecture.Application\obj\Debug\net6.0\WebApiOnionArchitecture.Application.pdb
+C:\Users\Rhabi\OneDrive\Documents\Fullstack_practice\WebApiOnionArchitechture\WebApiOnionAchitecture\Core\WebApiOnionArchitecture.Application\obj\Debug\net6.0\ref\WebApiOnionArchitecture.Application.dll
